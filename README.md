@@ -21,13 +21,18 @@ When you send a message to the bot, it checks for a command.
 Then follow instructions received via WhatsApp text - 
 
 ```Type <login> to log into Whatster to read messages and media sent in this chat.```
+
 ```Type <mail> to send an email to any email address of your choice with or without an attatchment.```
+
 ```Type <clarifai> to use AI to recognize the contents of a sent image.```
+
 ```Type <joke> to get a randomly generated joke.```
 
-_By default any other messages or media is saved in the user's specific account database_
 
-If you login to the [whatster](https://whatsterv1.web.app/) website, you can see yours saved messages and media from your chat with the bot.
+_By default any other message or media sent to the bot is saved in the user's specific account database._
+
+
+If you login to the [WhatsTer](https://whatsterv1.web.app/) website, you can see yours saved messages and media from your chat with the bot.
 You can even delete the messages and media that you don't want in that website.
 
 _Works in quite a sync between your WhatsApp account and the WhatsTer account_
@@ -76,7 +81,7 @@ That's it!
 
 ### Cloud deployment
 
-I have deployed my webhooks and the server api for the webapp to heroku and client webapp to firebase (for the  react app).
+I have deployed my webhooks and the server api for the webapp to Heroku and client webapp to Firebase (for the  react app).
 
 | Service                           |                                                                                                                                                                                                                           |
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
