@@ -6,7 +6,7 @@
 
 Send the following text message on Twlio's number [+1 (415) 523-8886] or [click here](https://api.whatsapp.com/send?phone=14155238886&text=join%20decide-wish) to start the bot.
 
-```bash join decide-wish```
+```join decide-wish```
 
 ## About
 
