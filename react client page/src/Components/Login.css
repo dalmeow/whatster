@@ -1,0 +1,32 @@
+.logincontainer
+{
+	background-image: url('../images/heh.gif');
+	/*background-size: cover;*/
+	background-position: center;
+	background-repeat: no-repeat;
+	min-width: 100vw;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.form-container
+{
+	display: block;
+}
+
+.segment-container
+{
+	width: 50%;
+	/*opacity: 75%;*/
+}
+
+@media (max-width: 500px)
+{
+	.segment-container
+	{
+		width: 75%;
+		transform: scale(1.2);
+	}
+}
