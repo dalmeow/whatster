@@ -10,28 +10,27 @@ Send the following text message on Twlio's number [+1 (415) 523-8886] or [click 
 
 ## About
 
-Whatster is a User-Friendly Whatsapp Chat Bot created using Twilio's Whatsapp API. This bot enables you do image-recognition, email to any receiver, sends you jokes and most important of all it saves any message or media that you send (or forward) to it in a database which is accessible in [whatster](https://whatsterv1.web.app/) website.
+Whatster is a User-Friendly WhatsApp Chat Bot created using Twilio's Whatsapp API. This bot enables you to do image-recognition, send email to any receiver with or without an attachment, sends you jokes, and most importantly saves any message or media that you send (or forward) to it, in a database which is accessible in [WhatsTer](https://whatsterv1.web.app/) website.
 
 
 
 ### How it works
 
-When you send a message to the bot, it checks if for a command. 
+When you send a message to the bot, it checks for a command. 
 
 Then follow instructions received via WhatsApp text - 
 
-```bash```
-```Type <login> 'to log into Whatster to read messages and media sent in this chat.'```
-```Type <mail> 'to send an email to any email address of your choice with or without an attatchment.'```
-```Type <clarifai> 'to use AI to recognize the contents of a sent image.'```
-```Type <joke> 'to get a randomly generated joke.'```
+```Type <login> to log into Whatster to read messages and media sent in this chat.```
+```Type <mail> to send an email to any email address of your choice with or without an attatchment.```
+```Type <clarifai> to use AI to recognize the contents of a sent image.```
+```Type <joke> to get a randomly generated joke.```
 
-_By default any other messages or media are just saved in the user's specific account database_
+_By default any other messages or media is saved in the user's specific account database_
 
 If you login to the [whatster](https://whatsterv1.web.app/) website, you can see yours saved messages and media from your chat with the bot.
 You can even delete the messages and media that you don't want in that website.
 
-_Quite a sync between your Whatsapp account and the Whatster account_
+_Works in quite a sync between your WhatsApp account and the WhatsTer account_
 
 
 ## Features
@@ -39,7 +38,7 @@ _Quite a sync between your Whatsapp account and the Whatster account_
 - Image Recognition
 - Email
 - Jokes
-- Messages and Media saved to your account
+- Saving Messages and Media to your account
 - Built using **React**
 
 ## How to use it
